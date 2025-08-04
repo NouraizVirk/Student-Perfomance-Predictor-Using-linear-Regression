@@ -42,5 +42,5 @@ This project demonstrates a machine learning model that predicts students’ exa
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/student-score-prediction.git
+   git clone https://github.com/NouriazVirk/student-score-prediction.git
    cd student-score-prediction
